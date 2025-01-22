@@ -13,7 +13,7 @@ Get all agencies. "Advertising, Brand & Creative" and "Media, PR & Events" are b
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:jcalosor/studiospace-user-agencies.git
 cd studiospace-user-agencies
 ```
 
